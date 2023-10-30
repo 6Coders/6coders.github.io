@@ -1,9 +1,215 @@
 <!DOCTYPE html>
 <html lang="it">
-    <head>
-      <title>6Coders</title>
-    </head>
-    <body>
-    <p>6Coders</p>
-    </body>
+<head>
+<title>6Coders</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins">
+<style>
+body,h1,h2,h3,h4,h5 {font-family: "Poppins", sans-serif}
+body {font-size:16px;}
+.w3-half img{margin-bottom:-6px;margin-top:16px;opacity:0.8;cursor:pointer}
+.w3-half img:hover{opacity:1}
+.w3-container {
+      text-align: center; /* Allineamento dell'immagine a sinistra */
+    }
+</style>
+</head>
+<body>
+
+<!-- Sidebar/menu -->
+<nav class="w3-sidebar w3-blue w3-collapse w3-top w3-large w3-padding" style="z-index:3;width:300px;font-weight:bold;" id="mySidebar"><br>
+  <div class="w3-bar-block">
+    <a href="#" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Home</a> 
+    <a href="#chisiamo" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Chi siamo</a> 
+    <a href="#candidatura" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Candidatura</a> 
+    <!--<a href="#packages" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Packages</a>-->
+    <a href="#contatti" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Contatti</a>
+  </div>
+</nav>
+
+<!-- Top menu on small screens -->
+<header class="w3-container w3-top w3-hide-large w3-blue w3-xlarge w3-padding">
+  <a href="javascript:void(0)" class="w3-button w3-blue w3-margin-right" onclick="w3_open()">☰</a>
+  <span>Navigazione</span>
+</header>
+
+<!-- Overlay effect when opening sidebar on small screens -->
+<div class="w3-overlay w3-hide-large" onclick="w3_close()" style="cursor:pointer" title="close side menu" id="myOverlay"></div>
+
+<div class="w3-main" style="margin-left:340px;margin-right:40px">
+
+  <div class="w3-container" style="margin-top:80px">
+    <img src="sei.png" style="width:500px" alt="Logo 6Coders">
+    <h1 class="w3-xxxlarge w3-text-black"><b>Corso di ingegneria del software</b></h1>
+    <h1 class="w3-xxxlarge w3-text-black"><b>A.A. : 2023/2024</b></h1>
+  </div>
+  
+  <div id="modal01" class="w3-modal w3-black" style="padding-top:0" onclick="this.style.display='none'">
+    <span class="w3-button w3-black w3-xxlarge w3-display-topright">×</span>
+    <div class="w3-modal-content w3-animate-zoom w3-center w3-transparent w3-padding-64">
+      <img id="img01" class="w3-image">
+      <p id="caption"></p>
+    </div>
+  </div>
+
+  <div class="w3-container" id="chisiamo" style="margin-top:75px; text-align: left;">
+    <h1 class="w3-xxxlarge w3-text-blue"><b>Chi siamo</b></h1>
+    <hr style="width:50px;border:5px solid rgb(12, 172, 230)" class="w3-round">
+
+   <div class="w3-row-padding w3-grayscale">
+    <div class="w3-col m4 w3-margin-bottom">
+      <div class="w3-light-grey">
+        <div class="w3-container">
+          <h3>Floriano Edoardo</h3>
+          <p class="w3-opacity">Studente Unipd</p>
+        </div>
+      </div>
+    </div>
+    <div class="w3-col m4 w3-margin-bottom">
+      <div class="w3-light-grey">
+        <div class="w3-container">
+          <h3>Marchiorato Pietro</h3>
+          <p class="w3-opacity">Studente Unipd</p>
+        </div>
+      </div>
+    </div>
+    <div class="w3-col m4 w3-margin-bottom">
+      <div class="w3-light-grey">
+        <div class="w3-container">
+          <h3>Lovato Yuri</h3>
+          <p class="w3-opacity">Studente Unipd</p>
+        </div>
+      </div>
+    </div>
+    <div class="w3-col m4 w3-margin-bottom">
+        <div class="w3-light-grey">
+          <div class="w3-container">
+            <h3>Bilinski Eleonora</h3>
+            <p class="w3-opacity">Studente Unipd</p>
+          </div>
+        </div>
+      </div>
+      <div class="w3-col m4 w3-margin-bottom">
+        <div class="w3-light-grey">
+          <div class="w3-container">
+            <h3>Vogli Vullnet</h3>
+            <p class="w3-opacity">Studente Unipd</p>
+          </div>
+        </div>
+      </div>
+      <div class="w3-col m4 w3-margin-bottom">
+        <div class="w3-light-grey">
+          <div class="w3-container">
+            <h3>Niagu Ana Maria</h3>
+            <p class="w3-opacity">Studente Unipd</p>
+          </div>
+        </div>
+      </div>
+      <div class="w3-col m4 w3-margin-bottom">
+        <div class="w3-light-grey">
+          <div class="w3-container">
+            <h3> Chelhaoui Osama</h3>
+            <p class="w3-opacity">Studente Unipd</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="w3-container" id="candidatura" style="margin-top:75px; text-align: left;">
+    <h1 class="w3-xxxlarge w3-text-blue"><b>Candidatura</b></h1>
+    <hr style="width:50px;border:5px solid rgb(12, 172, 230)" class="w3-round">
+    <p><b>Documenti relativi alla candidatura</b></p>
+    <p>
+        <ul>
+            <li><a href="https://www.w3schools.com/w3css/default.asp" title="W3.CSS" target="_blank" class="w3-hover-opacity">Lettera di presentazione</a><br></li>
+            <li><a href="https://www.w3schools.com/w3css/default.asp" title="W3.CSS" target="_blank" class="w3-hover-opacity">Verbali Interni</a><br></li>
+            <li><a href="https://www.w3schools.com/w3css/default.asp" title="W3.CSS" target="_blank" class="w3-hover-opacity">Verbali Esterni</a></li>
+        </ul>
+    </p>
+  </div>
+
+  <!--
+  <div class="w3-container" id="packages" style="margin-top:75px">
+    <h1 class="w3-xxxlarge w3-text-red"><b>Packages.</b></h1>
+    <hr style="width:50px;border:5px solid red" class="w3-round">
+    <p>Some text our prices. Lorem ipsum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure</p>
+  </div>
+
+  <div class="w3-row-padding">
+    <div class="w3-half w3-margin-bottom">
+      <ul class="w3-ul w3-light-grey w3-center">
+        <li class="w3-dark-grey w3-xlarge w3-padding-32">Basic</li>
+        <li class="w3-padding-16">Floorplanning</li>
+        <li class="w3-padding-16">10 hours support</li>
+        <li class="w3-padding-16">Photography</li>
+        <li class="w3-padding-16">20% furniture discount</li>
+        <li class="w3-padding-16">Good deals</li>
+        <li class="w3-padding-16">
+          <h2>$ 199</h2>
+          <span class="w3-opacity">per room</span>
+        </li>
+        <li class="w3-light-grey w3-padding-24">
+          <button class="w3-button w3-white w3-padding-large w3-hover-black">Sign Up</button>
+        </li>
+      </ul>
+    </div>
+        
+    <div class="w3-half">
+      <ul class="w3-ul w3-light-grey w3-center">
+        <li class="w3-red w3-xlarge w3-padding-32">Pro</li>
+        <li class="w3-padding-16">Floorplanning</li>
+        <li class="w3-padding-16">50 hours support</li>
+        <li class="w3-padding-16">Photography</li>
+        <li class="w3-padding-16">50% furniture discount</li>
+        <li class="w3-padding-16">GREAT deals</li>
+        <li class="w3-padding-16">
+          <h2>$ 249</h2>
+          <span class="w3-opacity">per room</span>
+        </li>
+        <li class="w3-light-grey w3-padding-24">
+          <button class="w3-button w3-red w3-padding-large w3-hover-black">Sign Up</button>
+        </li>
+      </ul>
+    </div>
+  </div>
+  -->
+
+  <div class="w3-container" id="contatti" style="margin-top:75px; text-align: left;">
+    <h1 class="w3-xxxlarge w3-text-blue"><b>Contatti</b></h1>
+    <hr style="width:50px;border:5px solid rgb(12, 172, 230)" class="w3-round">
+    <ul>
+        <li>Email: <a href="mailto:6coders.unipd@gmail.com" title="Invia un'email a noi">6coders.unipd@gmail.com</a></li>
+    </ul>
+  </div>
+
+<!-- End page content -->
+</div>
+
+<div class="w3-light-grey w3-container w3-padding-32" style="margin-top:75px;padding-right:58px">
+    <p class="w3-right"><b>6Coders</b> in collaborazione con <b>Università degli studi di Padova</b></p>
+</div>
+
+<script>
+function w3_open() {
+  document.getElementById("mySidebar").style.display = "block";
+  document.getElementById("myOverlay").style.display = "block";
+}
+ 
+function w3_close() {
+  document.getElementById("mySidebar").style.display = "none";
+  document.getElementById("myOverlay").style.display = "none";
+}
+
+function onClick(element) {
+  document.getElementById("img01").src = element.src;
+  document.getElementById("modal01").style.display = "block";
+  var captionText = document.getElementById("caption");
+  captionText.innerHTML = element.alt;
+}
+</script>
+
+</body>
 </html>
