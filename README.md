@@ -1,3 +1,8 @@
+<p align="center">
+  <img width="400" src="img/sei.png">
+</p>
+
+
 # Documentazione 6Coders
 
 **Ingegneria del Software - Gruppo 6Coders - Università degli Studi di Padova - Corso di Laurea in Informatica - A.A.: 2023/2024**
