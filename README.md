@@ -12,9 +12,9 @@
 <details>
 <summary><b>Candidatura</b></summary>
 
--[Candidatura V1.0](https://github.com/6Coders/6coders.github.io/blob/main/Candidatura/6Coders_Candidatura_1.0.pdf)
--[Dichiarazione degli impegni V2.0](https://github.com/6Coders/6coders.github.io/blob/main/Candidatura/6Coders_DichiarazioneImpegni_2.0.pdf)
--[Valutazione Capitolati V1.0](https://github.com/6Coders/6coders.github.io/blob/main/Candidatura/6Coders_ValutazioneCapitolati_1.0.pdf)
+- [Candidatura V1.0](https://github.com/6Coders/6coders.github.io/blob/main/Candidatura/6Coders_Candidatura_1.0.pdf)
+- [Dichiarazione degli impegni V2.0](https://github.com/6Coders/6coders.github.io/blob/main/Candidatura/6Coders_DichiarazioneImpegni_2.0.pdf)
+- [Valutazione Capitolati V1.0](https://github.com/6Coders/6coders.github.io/blob/main/Candidatura/6Coders_ValutazioneCapitolati_1.0.pdf)
 </details>
 <details>
 <summary><b>RTB</b></summary>
