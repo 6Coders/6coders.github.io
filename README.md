@@ -27,7 +27,7 @@
 
 <b>RTB</b>
 
--[Norme di Progetto V1.0](https://github.com/6Coders/6coders.github.io/blob/main/RTB/6Coders_NormeDiProgetto_1.0.pdf)
+- [Norme di Progetto V1.0](https://github.com/6Coders/6coders.github.io/blob/main/RTB/6Coders_NormeDiProgetto_1.0.pdf)
   - Verbali
     - Esterni
       - [Verbale esterno del 17 novembre 2023](https://github.com/6Coders/6coders.github.io/blob/main/RTB/Verbali/Esterni/vEXT_171123.pdf)
