@@ -26,9 +26,13 @@
 <br>
 
 <b>RTB</b>
-
-- [Norme di Progetto V1.0](https://github.com/6Coders/6coders.github.io/blob/main/RTB/6Coders_NormeDiProgetto_1.0.pdf)
-  - Verbali
+- Documentazione Esterna
+  - [Analisi dei requisiti V1.0](https://github.com/6Coders/6coders.github.io/blob/main/RTB/DocumentazioneEsterna/6Coders_AnalisiDeiRequisiti_1-0.pdf)
+  - [Glossario V0.5](https://github.com/6Coders/6coders.github.io/blob/main/RTB/DocumentazioneEsterna/6Coders_Glossario_0-5.pdf)
+  - [Piano di Qualifica V0.8](https://github.com/6Coders/6coders.github.io/blob/main/RTB/DocumentazioneEsterna/6Coders_PianoDiQualifica_0-8.pdf)
+  - [Lettera di presentazione RTB](https://github.com/6Coders/6coders.github.io/blob/main/RTB/DocumentazioneEsterna/6Coders_PresentazioneRTB_1Fase.pdf)
+- Documentazione Interna
+- Verbali
     - Esterni
       - [Verbale esterno del 17 novembre 2023](https://github.com/6Coders/6coders.github.io/blob/main/RTB/Verbali/Esterni/vEXT_171123.pdf)
       - [Verbale esterno del 15 dicembre 2023](https://github.com/6Coders/6coders.github.io/blob/main/RTB/Verbali/Esterni/vEXT_151223.pdf)
