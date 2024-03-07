@@ -27,25 +27,17 @@
 
 <b>RTB</b>
 - Documentazione Esterna
-  - [Analisi dei requisiti V1.0](https://github.com/6Coders/6coders.github.io/blob/main/RTB/DocumentazioneEsterna/6Coders_AnalisiDeiRequisiti_1-0.pdf)
-  - [Glossario V0.5](https://github.com/6Coders/6coders.github.io/blob/main/RTB/DocumentazioneEsterna/6Coders_Glossario_0-5.pdf)
-  - [Piano di Qualifica V0.8](https://github.com/6Coders/6coders.github.io/blob/main/RTB/DocumentazioneEsterna/6Coders_PianoDiQualifica_0-8.pdf)
-  - [Lettera di presentazione RTB - 1 Parte](https://github.com/6Coders/6coders.github.io/blob/main/RTB/DocumentazioneEsterna/6Coders_PresentazioneRTB_1Parte.pdf)
-  - Lettera di presentazione RTB - 2 Parte](https://github.com/6Coders/6coders.github.io/blob/main/RTB/DocumentazioneEsterna/6Coders_PresentazioneRTB_2Parte.pdf)
+  - [Analisi dei Requisiti V1.0](https://github.com/6Coders/6coders.github.io/blob/main/RTB/DocumentazioneEsterna/6Coders_AnalisiDeiRequisiti_1-0.pdf)
+  - [Glossario V1.0](https://github.com/6Coders/6coders.github.io/blob/main/RTB/DocumentazioneEsterna/6Coders_Glossario_1-0.pdf)
+  - [Piano di Qualifica V1.0](https://github.com/6Coders/6coders.github.io/blob/main/RTB/DocumentazioneEsterna/6Coders_PianoDiQualifica_1-0.pdf)
+  - [Piano di Progetto V1.0](https://github.com/6Coders/6coders.github.io/blob/main/RTB/DocumentazioneEsterna/6Coders_PianoDiProgetto_1-0.pdf)
+  - [Lettera di Presentazione RTB - 1 Parte](https://github.com/6Coders/6coders.github.io/blob/main/RTB/DocumentazioneEsterna/6Coders_PresentazioneRTB_1Parte.pdf)
+  - [Lettera di Presentazione RTB - 2 Parte](https://github.com/6Coders/6coders.github.io/blob/main/RTB/DocumentazioneEsterna/6Coders_PresentazioneRTB_2Parte.pdf)
 - Documentazione Interna
+  - [Norme di Progetto V1.0](https://github.com/6Coders/6coders.github.io/blob/main/RTB/DocumentazioneInterna/6Coders_NormeDiProgetto_1-0.pdf)
 - Verbali
-    - Esterni
-      - [Verbale esterno del 17 novembre 2023](https://github.com/6Coders/6coders.github.io/blob/main/RTB/Verbali/Esterni/vEXT_171123.pdf)
-      - [Verbale esterno del 15 dicembre 2023](https://github.com/6Coders/6coders.github.io/blob/main/RTB/Verbali/Esterni/vEXT_151223.pdf)
-      - [Verbale esterno del 10 gennaio 2024](https://github.com/6Coders/6coders.github.io/blob/main/RTB/Verbali/Esterni/vEXT_100124.pdf)
-    - Interni
-      - [Verbale interno del 22 novembre 2023](https://github.com/6Coders/6coders.github.io/blob/main/RTB/Verbali/Interni/vINT_221123.pdf)
-      - [Verbale interno del 01 dicembre 2023](https://github.com/6Coders/6coders.github.io/blob/main/RTB/Verbali/Interni/vINT_011223.pdf)
-      - [Verbale interno del 13 dicembre 2023](https://github.com/6Coders/6coders.github.io/blob/main/RTB/Verbali/Interni/vINT_131223.pdf)
-      - [Verbale interno del 18 dicembre 2023](https://github.com/6Coders/6coders.github.io/blob/main/RTB/Verbali/Interni/vINT_181223.pdf)
-      - [Verbale interno del 02 gennaio 2024](https://github.com/6Coders/6coders.github.io/blob/main/RTB/Verbali/Interni/vINT_020124.pdf)
-      - [Verbale interno del 24 gennaio 2024](https://github.com/6Coders/6coders.github.io/blob/main/RTB/Verbali/Interni/vINT_240124.pdf)
-      - [Verbale interno del 07 febbraio 2024](https://github.com/6Coders/6coders.github.io/blob/main/RTB/Verbali/Interni/vINT_070224.pdf)
+  - [Interni](https://6coders.github.io/#verbali)
+  - [Esterni](https://6coders.github.io/#verbali)
 
 <br>
 
