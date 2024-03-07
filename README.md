@@ -30,7 +30,8 @@
   - [Analisi dei requisiti V1.0](https://github.com/6Coders/6coders.github.io/blob/main/RTB/DocumentazioneEsterna/6Coders_AnalisiDeiRequisiti_1-0.pdf)
   - [Glossario V0.5](https://github.com/6Coders/6coders.github.io/blob/main/RTB/DocumentazioneEsterna/6Coders_Glossario_0-5.pdf)
   - [Piano di Qualifica V0.8](https://github.com/6Coders/6coders.github.io/blob/main/RTB/DocumentazioneEsterna/6Coders_PianoDiQualifica_0-8.pdf)
-  - [Lettera di presentazione RTB](https://github.com/6Coders/6coders.github.io/blob/main/RTB/DocumentazioneEsterna/6Coders_PresentazioneRTB_1Fase.pdf)
+  - [Lettera di presentazione RTB - 1 Parte](https://github.com/6Coders/6coders.github.io/blob/main/RTB/DocumentazioneEsterna/6Coders_PresentazioneRTB_1Parte.pdf)
+  - Lettera di presentazione RTB - 2 Parte](https://github.com/6Coders/6coders.github.io/blob/main/RTB/DocumentazioneEsterna/6Coders_PresentazioneRTB_2Parte.pdf)
 - Documentazione Interna
 - Verbali
     - Esterni
