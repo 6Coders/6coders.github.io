@@ -36,8 +36,20 @@
 - Documentazione Interna
   - [Norme di Progetto V1.0](https://github.com/6Coders/6coders.github.io/blob/main/RTB/DocumentazioneInterna/6Coders_NormeDiProgetto_1-0.pdf)
 - Verbali
-  - [Interni](https://6coders.github.io/#verbali)
-  - [Esterni](https://6coders.github.io/#verbali)
+  - Esterni
+    - [Verbale esterno del 17 novembre 2023](https://github.com/6Coders/6coders.github.io/blob/main/RTB/Verbali/Esterni/vEXT_231117.pdf)
+    - [Verbale esterno del 15 dicembre 2023](https://github.com/6Coders/6coders.github.io/blob/main/RTB/Verbali/Esterni/vEXT_231215.pdf)
+    - [Verbale esterno del 10 gennaio 2024](https://github.com/6Coders/6coders.github.io/blob/main/RTB/Verbali/Esterni/vEXT_240110.pdf)
+  - Interni
+    - [Verbale interno del 22 novembre 2023](https://github.com/6Coders/6coders.github.io/blob/main/RTB/Verbali/Interni/vINT_231122.pdf)
+    - [Verbale interno del 01 dicembre 2023](https://github.com/6Coders/6coders.github.io/blob/main/RTB/Verbali/Interni/vINT_231201.pdf)
+    - [Verbale interno del 13 dicembre 2023](https://github.com/6Coders/6coders.github.io/blob/main/RTB/Verbali/Interni/vINT_231213.pdf)
+    - [Verbale interno del 18 dicembre 2023](https://github.com/6Coders/6coders.github.io/blob/main/RTB/Verbali/Interni/vINT_231218.pdf)
+    - [Verbale interno del 02 gennaio 2024](https://github.com/6Coders/6coders.github.io/blob/main/RTB/Verbali/Interni/vINT_240102.pdf)
+    - [verbale interno del 24 gennaio 2024](https://github.com/6Coders/6coders.github.io/blob/main/RTB/Verbali/Interni/vINT_240124.pdf)
+    - [Verbale interno del 07 febbraio 2024](https://github.com/6Coders/6coders.github.io/blob/main/RTB/Verbali/Interni/vINT_240207.pdf)
+    - [Verbale interno del 01 marzo 2024](https://github.com/6Coders/6coders.github.io/blob/main/RTB/Verbali/Interni/vINT_240301.pdf)
+ 
 
 <br>
 
