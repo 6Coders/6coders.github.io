@@ -46,7 +46,7 @@
     - [Verbale interno del 13 dicembre 2023](https://github.com/6Coders/6coders.github.io/blob/main/RTB/Verbali/Interni/vINT_231213.pdf)
     - [Verbale interno del 18 dicembre 2023](https://github.com/6Coders/6coders.github.io/blob/main/RTB/Verbali/Interni/vINT_231218.pdf)
     - [Verbale interno del 02 gennaio 2024](https://github.com/6Coders/6coders.github.io/blob/main/RTB/Verbali/Interni/vINT_240102.pdf)
-    - [verbale interno del 24 gennaio 2024](https://github.com/6Coders/6coders.github.io/blob/main/RTB/Verbali/Interni/vINT_240124.pdf)
+    - [Verbale interno del 24 gennaio 2024](https://github.com/6Coders/6coders.github.io/blob/main/RTB/Verbali/Interni/vINT_240124.pdf)
     - [Verbale interno del 07 febbraio 2024](https://github.com/6Coders/6coders.github.io/blob/main/RTB/Verbali/Interni/vINT_240207.pdf)
     - [Verbale interno del 01 marzo 2024](https://github.com/6Coders/6coders.github.io/blob/main/RTB/Verbali/Interni/vINT_240301.pdf)
  
