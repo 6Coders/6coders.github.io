@@ -17,6 +17,7 @@
     - [Verbale esterno del 20 Marzo 2024](https://github.com/6Coders/6coders.github.io/blob/main/PB/Verbali/Esterni/vEXT_20240320.pdf)
   - Interni
     - [Verbale interno del 06 Maggio 2024](https://github.com/6Coders/6coders.github.io/blob/main/PB/Verbali/Interni/vINT_20240506.pdf)
+    - [verbale interno del 22 Aprile 2024](https://github.com/6Coders/6coders.github.io/blob/main/PB/Verbali/Interni/vINT_20240422.pdf)
     - [Verbale interno del 08 Aprile 2024](https://github.com/6Coders/6coders.github.io/blob/main/PB/Verbali/Interni/vINT_20240408.pdf)
     - [Verbale interno del 04 Aprile 2024](https://github.com/6Coders/6coders.github.io/blob/main/PB/Verbali/Interni/vINT_20240404.pdf)
     - [Verbale interno del 25 Marzo 2024](https://github.com/6Coders/6coders.github.io/blob/main/PB/Verbali/Interni/vINT_20240325.pdf)
