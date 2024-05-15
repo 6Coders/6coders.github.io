@@ -11,9 +11,13 @@
 
 <b>PB</b>
 - Documentazione Esterna
+  - [Glossario V2.0](https://github.com/6Coders/6coders.github.io/blob/main/PB/DocumentazioneEsterna/6Coders_Glossario_2-0.pdf) 
+  - [Specifica Tecnica V1.0](https://github.com/6Coders/6coders.github.io/blob/main/PB/DocumentazioneEsterna/6Coders_SpecificaTecnica_1-0.pdf)
+  - [Analisi dei Requisiti V2.0](https://github.com/6Coders/6coders.github.io/blob/main/PB/DocumentazioneEsterna/6Coders_AnalisiDeiRequisiti_2-0.pdf)
   - [Analisi dei Requisiti V1.2](https://github.com/6Coders/6coders.github.io/blob/main/PB/DocumentazioneEsterna/6Coders_AnalisiDeiRequisiti_1-2.pdf)
 - Verbali
   - Esterni
+    - [Verbale esterno del 10 Maggio 2024](https://github.com/6Coders/6coders.github.io/blob/main/PB/Verbali/Esterni/vEXT_20240510.pdf)
     - [Verbale esterno del 20 Marzo 2024](https://github.com/6Coders/6coders.github.io/blob/main/PB/Verbali/Esterni/vEXT_20240320.pdf)
   - Interni
     - [Verbale interno del 06 Maggio 2024](https://github.com/6Coders/6coders.github.io/blob/main/PB/Verbali/Interni/vINT_20240506.pdf)
