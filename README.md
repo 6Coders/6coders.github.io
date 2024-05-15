@@ -17,6 +17,7 @@
   - [Analisi dei Requisiti V1.2](https://github.com/6Coders/6coders.github.io/blob/main/PB/DocumentazioneEsterna/6Coders_AnalisiDeiRequisiti_1-2.pdf)
 - Verbali
   - Esterni
+    - [Verbale esterno del 15 Maggio 2024](https://github.com/6Coders/6coders.github.io/blob/main/PB/Verbali/Esterni/vEXT_20240515.pdf)
     - [Verbale esterno del 10 Maggio 2024](https://github.com/6Coders/6coders.github.io/blob/main/PB/Verbali/Esterni/vEXT_20240510.pdf)
     - [Verbale esterno del 20 Marzo 2024](https://github.com/6Coders/6coders.github.io/blob/main/PB/Verbali/Esterni/vEXT_20240320.pdf)
   - Interni
