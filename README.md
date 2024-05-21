@@ -11,6 +11,7 @@
 
 <b>PB</b>
 - Documentazione Esterna
+  - [Manuale Utente V1.0](https://github.com/6Coders/6coders.github.io/blob/main/PB/DocumentazioneEsterna/6Coders_ManualeUtente_1-0.pdf)
   - [Glossario V2.0](https://github.com/6Coders/6coders.github.io/blob/main/PB/DocumentazioneEsterna/6Coders_Glossario_2-0.pdf) 
   - [Specifica Tecnica V1.0](https://github.com/6Coders/6coders.github.io/blob/main/PB/DocumentazioneEsterna/6Coders_SpecificaTecnica_1-0.pdf)
   - [Analisi dei Requisiti V2.0](https://github.com/6Coders/6coders.github.io/blob/main/PB/DocumentazioneEsterna/6Coders_AnalisiDeiRequisiti_2-0.pdf)
