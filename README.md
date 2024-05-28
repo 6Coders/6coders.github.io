@@ -11,18 +11,25 @@
 
 <b>PB</b>
 - Documentazione Esterna
+  - [Lettera di presentazione PB (Seconda parte)](https://github.com/6Coders/6coders.github.io/blob/main/PB/DocumentazioneEsterna/6Coders_Presentazione_PB_IIParte_v1.pdf)
   - [Lettera di presentazione PB (Prima parte)](https://github.com/6Coders/6coders.github.io/blob/main/PB/DocumentazioneEsterna/6Coders_Presentazione_PB_v1.pdf)
   - [Manuale Utente V1.0](https://github.com/6Coders/6coders.github.io/blob/main/PB/DocumentazioneEsterna/6Coders_ManualeUtente_1-0.pdf)
+  - [Piano di Progetto V2.0](https://github.com/6Coders/6coders.github.io/blob/main/PB/DocumentazioneEsterna/6Coders_PianoDiProgetto_2-0.pdf)
+  - [Piano di Qualifica V2.0](https://github.com/6Coders/6coders.github.io/blob/main/PB/DocumentazioneEsterna/6Coders_PianoDiQualifica_2-0.pdf)
   - [Glossario V2.0](https://github.com/6Coders/6coders.github.io/blob/main/PB/DocumentazioneEsterna/6Coders_Glossario_2-0.pdf) 
   - [Specifica Tecnica V1.0](https://github.com/6Coders/6coders.github.io/blob/main/PB/DocumentazioneEsterna/6Coders_SpecificaTecnica_1-0.pdf)
   - [Analisi dei Requisiti V2.0](https://github.com/6Coders/6coders.github.io/blob/main/PB/DocumentazioneEsterna/6Coders_AnalisiDeiRequisiti_2-0.pdf)
   - [Analisi dei Requisiti V1.2](https://github.com/6Coders/6coders.github.io/blob/main/PB/DocumentazioneEsterna/6Coders_AnalisiDeiRequisiti_1-2.pdf)
+- Documentazione Interna
+  - [Norme di Progetto V2.0](https://github.com/6Coders/6coders.github.io/blob/main/PB/DocumentazioneInterna/6Coders_NormeDiProgetto_2-0.pdf)
 - Verbali
   - Esterni
     - [Verbale esterno del 15 Maggio 2024](https://github.com/6Coders/6coders.github.io/blob/main/PB/Verbali/Esterni/vEXT_20240515.pdf)
     - [Verbale esterno del 10 Maggio 2024](https://github.com/6Coders/6coders.github.io/blob/main/PB/Verbali/Esterni/vEXT_20240510.pdf)
     - [Verbale esterno del 20 Marzo 2024](https://github.com/6Coders/6coders.github.io/blob/main/PB/Verbali/Esterni/vEXT_20240320.pdf)
   - Interni
+    - [Verbale interno del 27 Maggio 2024](https://github.com/6Coders/6coders.github.io/blob/main/PB/Verbali/Interni/vINT_20240527.pdf)
+    - [Verbale interno del 16 Maggio 2024](https://github.com/6Coders/6coders.github.io/blob/main/PB/Verbali/Interni/vINT_20240516.pdf)
     - [Verbale interno del 06 Maggio 2024](https://github.com/6Coders/6coders.github.io/blob/main/PB/Verbali/Interni/vINT_20240506.pdf)
     - [verbale interno del 22 Aprile 2024](https://github.com/6Coders/6coders.github.io/blob/main/PB/Verbali/Interni/vINT_20240422.pdf)
     - [Verbale interno del 08 Aprile 2024](https://github.com/6Coders/6coders.github.io/blob/main/PB/Verbali/Interni/vINT_20240408.pdf)
